@@ -11,7 +11,7 @@
 
 <body>
 
-<div class="container">
+<div class="container-fluid">
 <header>
   <nav>
     <a href="#featured">Wisdom <span class="subhead">Pet Medicine</span></a>
@@ -25,11 +25,9 @@
   </nav>
 
   <div class="carousel">
-    <img src="images/carousel-lifestyle.jpg" alt="Lifestyle Photo">
-    <img src="images/carousel-mission.jpg" alt="Mission">
-    <img src="images/carousel-vaccinations.jpg" alt="Vaccinations">
-    <img src="images/carousel-fish.jpg" alt="Fish">
-    <img src="images/carousel-exoticanimals.jpg" alt="Exotic Animals">
+    <img src="images/carousel-black2.jpg" alt="Black pic">
+    <img src="images/mic.jpg" alt="White pic">
+    <img src="images/carousel-black1.jpg" alt="Black pic">
   </div>
 </header>
 
